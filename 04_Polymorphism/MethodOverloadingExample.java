@@ -16,7 +16,7 @@ class overload{
         System.out.println("Nothing to add");
     }
 }
-    public class Main {
+    public class MethodOverloadingExample {
         public static void main(String[] args){
             overload ol= new overload();
             ol.add(); // No parameter

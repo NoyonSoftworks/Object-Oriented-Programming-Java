@@ -8,7 +8,7 @@ class Teacher extends person{
     
 }
 
-public class Main {
+public class InstanceOfExample {
 public static void main(String[] args){
     Animal a= new Animal();
     person p= new person();

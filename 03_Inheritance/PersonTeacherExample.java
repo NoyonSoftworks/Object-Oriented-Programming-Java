@@ -15,7 +15,7 @@ class Teacher extends Person{
         System.out.println("Qualification: "+ qualification);
     }
 }
-public class Main {
+public class PersonTeacherExample {
 public static void main(String[] args){
     Teacher t1= new Teacher ();
     t1.name="Noyon Hossain";

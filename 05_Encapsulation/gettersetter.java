@@ -32,7 +32,7 @@ class Teacher extends Person{
         System.out.println("Qualification: "+ getQualification());
     }
 }
-public class Main {
+public class gettersetter {
     public static void main(String[] args){
         Teacher t1= new Teacher();
         t1.setName("Noyon Hossain");
