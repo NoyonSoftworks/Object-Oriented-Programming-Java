@@ -34,10 +34,6 @@ All files are short, clean, and easy to run.
 3. Run:
       java FileName
 
-Example:
-         javac VariablesAndDataTypes.java
-         java VariablesAndDataTypes
-
 Tip: In VS Code you can also use the Code Runner extension (▶️ button).
 
 
