@@ -12,6 +12,7 @@ class Teacher extends Person{
     void callme1(){ //same method name for overridding
         System.out.println("Name:" + name);
         System.out.println("Age:" + age);
+        // callme1(); //calling parent class method
         System.out.println("Qualification:" + qualification);
     }
 }
